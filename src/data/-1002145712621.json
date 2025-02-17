@@ -1,0 +1,8 @@
+{
+  "modules": [
+    "VT",
+    "BugReport",
+    "Notes",
+    "CoolStuff"
+  ]
+}
