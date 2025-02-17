@@ -5,7 +5,7 @@ import Save, Helper, random
 import asyncio, importlib.util, os
 
 
-BOT_TOKEN = '7302924821:AAHCGSv2M7BKU-TGgw2MF-LhMbdRauSxzY0'
+BOT_TOKEN = PUT BOT TOKEN HERE
 
 bot = AsyncTeleBot(BOT_TOKEN,  parse_mode='MarkdownV2')
 modules=[]
